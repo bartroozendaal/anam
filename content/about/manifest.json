@@ -1,4 +1,6 @@
 {
   "title": "About",
-  "sections": [{ "title": "Our Story" }, { "title": "Team" }]
-}
+  "sections": [
+    { "title": "Our Story", "filename": "our-story" },
+    { "title": "Team", "filename": "team" }
+  ]

@@ -1,4 +1,11 @@
 {
   "title": "Home",
-  "sections": [{ "title": "Introduction" }, { "title": "Features" }]
+  "sections": [
+    { "title": "Welkom bij Anam", "filename": "welkom" },
+    { "title": "Hoe ik te werk ga", "filename": "werkwijze" },
+    { "title": "Wie ik ben", "filename": "wieikben" },
+    { "title": "Kennismaken", "filename": "kennismaken" },
+    { "title": "Wat mensen zeggen", "filename": "reviews" },
+    { "title": "Mijn praktijk", "filename": "praktijk" }
+  ]
 }
