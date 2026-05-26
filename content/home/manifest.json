@@ -1,11 +1,12 @@
 {
-  "title": "Home",
   "sections": [
-    { "title": "Welkom bij Anam", "filename": "welkom" },
-    { "title": "Hoe ik te werk ga", "filename": "werkwijze" },
-    { "title": "Wie ik ben", "filename": "wieikben" },
-    { "title": "Kennismaken", "filename": "kennismaken" },
-    { "title": "Wat mensen zeggen", "filename": "reviews" },
-    { "title": "Mijn praktijk", "filename": "praktijk" }
+    { "menu": "Home", "filename": "welkom" },
+    { "menu": "Wat", "filename": "wat" },
+    { "filename": "quote" },
+    { "menu": "Hoe", "filename": "hoe" },
+    { "menu": "Waarvoor", "filename": "waarvoor" },
+    { "menu": "Wie", "filename": "wie" },
+    { "filename": "kennismaken" },
+    { "menu": "Waar", "filename": "waar" }
   ]
 }

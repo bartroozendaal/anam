@@ -1,7 +1,3 @@
 {
-  "links": [
-    { "title": "Privacy Policy", "slug": "privacy" },
-    { "title": "Terms of Service", "slug": "terms" },
-    { "title": "Contact", "slug": "contact" }
-  ]
+  "links": [{ "title": "Praktische informatie", "slug": "terms" }]
 }
