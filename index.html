@@ -1,13 +1,31 @@
 <!doctype html>
 <html lang="en" data-critters-container>
-  <head>
-    <meta charset="utf-8">
-    <title>Anam</title>
-    <base href="/">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <style>@import"https://fonts.googleapis.com/css2?family=Merriweather:wght@400;600;700&display=swap";*{margin:0;padding:0;box-sizing:border-box}html,body{height:100%;overflow-x:hidden;font-family:Merriweather,Verdana,sans-serif;font-size:16px;line-height:1.5;color:#333;background-color:#fff}:root{--cols:16;--gutter:1rem;--col-width:calc((100% - (var(--cols) - 1) * var(--gutter)) / var(--cols))}@media (max-width: 768px){:root{--cols:8}}@media (max-width: 480px){:root{--cols:4;--gutter:.5rem}}</style><link rel="stylesheet" href="styles.340f9a7da91c0915.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.340f9a7da91c0915.css"></noscript></head>
-  <body>
-    <app-root></app-root>
-  <script src="runtime.c6e00bf4b8865aaf.js" type="module"></script><script src="polyfills.2ab116c53111563f.js" type="module"></script><script src="main.ba0794fff1f4ed93.js" type="module"></script></body>
+
+<head>
+  <meta charset="utf-8">
+  <title>Anam</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <script>
+    (function () {
+      try {
+        var params = new URLSearchParams(window.location.search);
+        var redirect = params.get('redirect');
+        if (redirect) {
+          var url = decodeURIComponent(redirect);
+          if (!url.startsWith('/')) url = '/' + url;
+          history.replaceState(null, '', url + window.location.hash);
+        }
+      } catch (e) {
+        // ignore
+      }
+    })();
+  </script>
+<style>@import"https://fonts.googleapis.com/css2?family=Merriweather:wght@400;600;700&display=swap";*{margin:0;padding:0;box-sizing:border-box}html,body{height:100%;overflow-x:hidden;font-family:Merriweather,Verdana,sans-serif;font-size:16px;line-height:1.5;color:#333;background-color:#fff}:root{--cols:16;--gutter:1rem;--col-width:calc((100% - (var(--cols) - 1) * var(--gutter)) / var(--cols))}@media (max-width: 768px){:root{--cols:8}}@media (max-width: 480px){:root{--cols:4;--gutter:.5rem}}</style><link rel="stylesheet" href="styles.340f9a7da91c0915.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles.340f9a7da91c0915.css"></noscript></head>
+
+<body>
+  <app-root></app-root>
+<script src="runtime.c6e00bf4b8865aaf.js" type="module"></script><script src="polyfills.2ab116c53111563f.js" type="module"></script><script src="main.ba0794fff1f4ed93.js" type="module"></script></body>
+
 </html>
