@@ -1,9 +1,11 @@
 <!--
 background-color: #408E85
+background-image: /assets/images/wolkjes.svg
 left-image: /assets/images/petra.svg
+class: reverse
 -->
 
-# Wie ik ben
+# _Wie_ ik ben
 
 Zolang ik me kan herinneren ben ik geïnteresseerd in de verhalen en levens van mensen. Hoe de dingen op je pad je vormen, hoe je in het leven staat, en wilt staan. Juist door moeilijke ervaringen in mijn leven ben ik al van jongs af aan op zoek gegaan naar de zin van het leven, omdat ik iets zocht dat uitleg en troost kon bieden. Omdat ik zelf heb ervaren hoe belangrijk het is om steun te hebben in moeilijke tijden, wil ik die ook anderen bieden als therapeut.
 

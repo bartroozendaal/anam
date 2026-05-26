@@ -1,5 +1,6 @@
 <!--
-left-image: /assets/images/stenen.svg
+left-image: /assets/images/stenen1.svg
+right-image: /assets/images/stenen2.svg
 -->
 
 # _Waarvoor_ kun je terecht

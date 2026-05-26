@@ -3,7 +3,7 @@ background-color: #F3F1EC
 right-image: /assets/images/circels.svg
 -->
 
-# Wat kun je verwachten
+# _Wat_ kun je verwachten
 
 Therapie zie ik als een proces waarin je in je eigen tempo onderzoekt wat er in je leven speelt. Waarin je bijvoorbeeld merkt waar je vastzit in klachten of patronen. Door te kijken naar je levenservaringen, van vroeger —ook intergenerationeel— en in het hier en nu. Naar hoe en waarom bepaalde patronen zijn ontstaan, of ze nog zinvol zijn of juist in de weg zitten.
 

@@ -3,7 +3,7 @@ background-color: #F3F1EC
 left-image: /assets/images/poppetje.svg
 -->
 
-# Hoe ik werk
+# _Hoe_ ik werk
 
 Iedereen is anders, ik geloof niet in één standaard aanpak die voor iedereen werkt. We onderzoeken samen wat jij nodig hebt en wat jou het beste past en helpt.
 

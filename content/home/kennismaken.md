@@ -1,5 +1,6 @@
 <!--
 background-color: #F3F1EC
+right-image: /assets/images/mokken.svg
 -->
 
 # _Kennismaken_
