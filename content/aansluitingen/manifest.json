@@ -1,0 +1,23 @@
+{
+  "links": [
+    {
+      "title": "LVPW",
+      "logo": "/assets/logos/lvpw.svg",
+      "link": "https://lvpw.nl/"
+    },
+    {
+      "title": "SCAG",
+      "logo": "/assets/logos/scag.svg",
+      "link": "https://www.scag.nl/"
+    },
+    {
+      "title": "RBCZ",
+      "logo": "/assets/logos/rbcz.svg",
+      "link": "https://rbcz.nu/"
+    },
+    {
+      "title": "Certified Grief Educator",
+      "logo": "/assets/logos/certified-grief-educator.svg"
+    }
+  ]
+}

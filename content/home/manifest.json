@@ -1,12 +1,12 @@
 {
   "sections": [
     { "menu": "Home", "filename": "welkom" },
+    { "menu": "Wie", "filename": "wie" },
+    { "filename": "kennismaken" },
     { "menu": "Wat", "filename": "wat" },
     { "filename": "quote" },
     { "menu": "Hoe", "filename": "hoe" },
     { "menu": "Waarvoor", "filename": "waarvoor" },
-    { "menu": "Wie", "filename": "wie" },
-    { "filename": "kennismaken" },
     { "menu": "Waar", "filename": "waar" }
   ]
 }

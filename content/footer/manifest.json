@@ -1,3 +1,8 @@
 {
-  "links": [{ "title": "Praktische informatie", "slug": "terms" }]
+  "links": [
+    { "title": "Praktische informatie", "slug": "info" },
+    { "title": "Opleidingen en trainingen", "slug": "trainings" },
+    { "title": "Algemene voorwaarden", "slug": "terms" },
+    { "title": "Privacybeleid", "slug": "privacy" }
+  ]
 }
